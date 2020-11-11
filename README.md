@@ -1,5 +1,5 @@
 # BeatBuster
-JavaFX Game that uses sounds of everday objects to create music
+JavaFX game that uses sounds of everday objects to create music
 
 ![screenshot1](https://user-images.githubusercontent.com/64690598/98013929-4bc30180-1dfb-11eb-843c-7e399dc7f225.jpeg)
 ![screenshot2](https://user-images.githubusercontent.com/64690598/98013931-4c5b9800-1dfb-11eb-8504-dab93c73b07b.jpeg)
